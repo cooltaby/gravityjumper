@@ -1,0 +1,31 @@
+﻿{
+	"version": 1577692816,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/hudbest-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/ground.png",
+		"images/buttongravity-sheet0.png",
+		"images/candy-sheet0.png",
+		"images/buttonjump-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/background.png",
+		"images/gravityrunner-sheet0.png",
+		"images/background2000-sheet0.png",
+		"images/reload-sheet0.png",
+		"media/eat.m4a",
+		"media/eat.ogg",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
